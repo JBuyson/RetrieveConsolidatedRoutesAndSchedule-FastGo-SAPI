@@ -7,3 +7,5 @@ http:
     port: "9082"
     routesPath: "/fastGoCall/routes"
     schedulesPath: "/fastGoCall/schedules"
+
+    
